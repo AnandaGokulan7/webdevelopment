@@ -1,0 +1,116 @@
+<html>
+    <head>
+            <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    </head>
+    <body>
+        <header class="isai">
+            <a href="#" class="isai1">Isai</a>
+        <nav class="navi">
+            
+            <a class="ab" href="#">Home</a>
+            <a class="ab" href="#">Contact Us</a>
+            <a class="ab" href="#">About Us</a>
+           
+            <button href="C:\Users\hp\.vscode\Untitled-2.html" class="sub-button">Login</button></a>
+            <a href="C:\Users\hp\.vscode\Untitled-2.html">
+            <button class="sub-button">Register</button></a>
+        </nav>
+        </header>
+        <div class="h">
+            <h1>Ineract deep into your soul...</h1>
+        </div>
+        
+        <div class="play">
+            <div class="playlist"><h6>playlist</h6>
+                
+            <ul type="circle">
+                <li>Recently played</li>
+                <li>Favourites</li>
+                <li>Recommended</li>
+            </ul>
+                        
+        </div>
+            <div class="songs">
+                
+                    <li class="list">
+                        <span>1</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>2</span>
+                        <img src="Faded.jpeg"> 
+                        <h5>Faded <br>
+                            <div class="auth">Alan-Walker</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>3</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>4</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>5</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>6</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>7</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+                    <li class="list">
+                        <span>8</span>
+                        <img src="believer.jpeg"> 
+                        <h5>Believer <br>
+                            <div class="auth">Imagine Dragons</div>
+                            <i class='bx bx-play'></i>
+                        </h5>
+                    </li>
+
+            </div>
+             
+
+            <div class="menu">
+                <div class="flux"></div>
+                <div><button class="sli"></button></div> 
+                
+            </div>
+
+            <div class="song"></div>
+            
+
+        </div>
+       
+        
+    </body>
+</html>
